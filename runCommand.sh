@@ -12,4 +12,4 @@ export GIT_PASSWORD=GITPASSWORD
 
 printf "\n\n"
 
-/bin/bash
+$1
